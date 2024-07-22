@@ -1,6 +1,6 @@
-* {
-    background-color: rgb(26, 44, 88);
-    color: aliceblue;
+*, body {
+    background-color: rgb(225, 226, 230);
+    color: rgb(42, 139, 224);
 }
 
 .title {
