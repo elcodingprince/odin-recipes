@@ -1,0 +1,29 @@
+* {
+    background-color: rgb(26, 44, 88);
+    color: aliceblue;
+}
+
+.title {
+    border-radius: 20;
+    padding-left: 25px;
+    padding-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.recipesList {
+    font-size: 16px;
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.recipesList li {
+    padding-top: 10px;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    
+} 
