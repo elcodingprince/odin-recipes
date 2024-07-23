@@ -11,14 +11,14 @@
 
 }
 
-.recipesList {
+.description {
     font-size: 16px;
     padding: 20px;
     font-family: 'Courier New', Courier, monospace;
 
 }
 
-.recipesList li {
+.description li {
     padding-top: 10px;
     text-decoration: none;
 }
@@ -27,3 +27,15 @@ a {
     text-decoration: none;
     
 } 
+
+img {
+    width: auto;
+}
+
+img.bacon-egg-wrap {
+    height: 250px;
+}
+
+img.chicken-wrap {
+    height: 300px;
+}
