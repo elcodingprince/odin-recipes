@@ -5,20 +5,20 @@
 
 .title {
     border-radius: 20px;
-    padding-left: 25px;
     padding-top: 30px;
     font-family: 'Times New Roman', Times, serif;
 
 }
 
-.description {
+.container {
     font-size: 16px;
     padding: 20px;
+    padding-left: 25px;
     font-family: 'Courier New', Courier, monospace;
 
 }
 
-.description li {
+.container li {
     padding-top: 10px;
     text-decoration: none;
 }
